@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "713958971091",
+    "firebase_url": "https://panicproject-85137.firebaseio.com",
+    "project_id": "panicproject-85137",
+    "storage_bucket": "panicproject-85137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713958971091:android:f40df0d9c9a860d2",
+        "android_client_info": {
+          "package_name": "com.example.panicproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713958971091-nq1l57jgl82f7g281dvmkjjqo1hv81sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.panicproject",
+            "certificate_hash": "e6e13dee6cd2960bb39f28eeb3f926d48551ccc1"
+          }
+        },
+        {
+          "client_id": "713958971091-0d1t2sg3tmpoa87s4mvensb3bvj8c2br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlxGqOlNo7fNq7m0n58vi3W29m3BspKq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713958971091-0d1t2sg3tmpoa87s4mvensb3bvj8c2br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="MemoryLoss">MemoryLoss</string>
+    <string name="wakeUpString">You\'re woken up by a sweet scenting powder, it\'s delightful flagrance come flatter your olfactif orifice,
+    even though you\'ve been woken up in the most wonderful way it could be you wonder whether to sleep more or not.</string>
+    <string name="timeToWake">At long last, you finally accept your inevitable fate, and as graciously as a dancing corpse you succeedly get up from your bed.
+    Great job, it only took you : </string>
+    <string name="backpack">Alright, i think you wasted enough time by now right ? What do you mean why it should bother you ??? C\'mon enough jokes, you can start now.
+    Don\'t mind it\'s not like I was anything but an omnipotent text hanging around. What do you mean "you can add obnoxious" ? You think it\'s easy for me ? Have you ever
+    been just a floating text ? Do you know how hard it is to be a floating text ? Of course you don\'t, how could you ? And yet you DARE being disrespectful, I don\'t think
+    your parents raised you that way did they ??? See another not-text life-from privilege… you had parent(s), I swear you not-text life-form really ignore how lucky you are.
+    … What are you doing still here ? Get on the move for Lord sake, wait… Could you be serious when you say that you don\'t know what I\m talking about…? Seems like it,
+    well check your pockets maybe you\'ll remember that way…</string>
+    <string name="your_pockets">your pockets :</string>
+    <string name="cyp">Check your pockets</string>
+    <string name="delete_db">Delete Database</string>
+    <string name="explanation">If you want to move something from your sylladex to your pockets, type it here in the editTexts under me and press the FAB to validate it, since you seem to have forgotten a lot of things I thought reminding you how your sylladex works could be a good idea…</string>
+    <string name="admitting">Admit that you don\'t remember anything</string>
+    <string name="revelation">Well, I don\'t want to make you panic or something, but you had some urgent revelation to make to one of your friend and you spent the last month talking about it, so,
+    I was, like, not thinking you would actually forget it… BUT HEY DON\T WORRY OK ? I got you, here just type what you had to say to your pal and I\ll make sure to sent it in the right time, just
+    hurry up or it\s gonna be too late OK ?</string>
+</resources>
